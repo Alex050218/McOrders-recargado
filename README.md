@@ -1,3 +1,4 @@
-# M´c order service style
+# MCOrders recargado
 
-The teacher asked for a service as if M´cDonalds and here is the result.
+Selecciona entre cuatro productos y detalla tu pedido presionando
+botones como si de cierto lugar se tratase.
